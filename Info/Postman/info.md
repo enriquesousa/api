@@ -11,3 +11,6 @@ Al ir agregando los parámetros en POSTMAN vemos como se va construyendo nuestro
 
 ## API DATA
 ![API-DATA](./api-data.png)
+
+## API Login
+![API-DATA](./api-login.png)
